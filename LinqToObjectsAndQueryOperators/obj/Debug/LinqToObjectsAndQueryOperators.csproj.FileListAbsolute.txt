@@ -1,0 +1,7 @@
+C:\Users\GioLGA\source\repos\LinqToObjectsAndQueryOperators\LinqToObjectsAndQueryOperators\bin\Debug\LinqToObjectsAndQueryOperators.exe.config
+C:\Users\GioLGA\source\repos\LinqToObjectsAndQueryOperators\LinqToObjectsAndQueryOperators\bin\Debug\LinqToObjectsAndQueryOperators.exe
+C:\Users\GioLGA\source\repos\LinqToObjectsAndQueryOperators\LinqToObjectsAndQueryOperators\bin\Debug\LinqToObjectsAndQueryOperators.pdb
+C:\Users\GioLGA\source\repos\LinqToObjectsAndQueryOperators\LinqToObjectsAndQueryOperators\obj\Debug\LinqToObjectsAndQueryOperators.csproj.AssemblyReference.cache
+C:\Users\GioLGA\source\repos\LinqToObjectsAndQueryOperators\LinqToObjectsAndQueryOperators\obj\Debug\LinqToObjectsAndQueryOperators.csproj.CoreCompileInputs.cache
+C:\Users\GioLGA\source\repos\LinqToObjectsAndQueryOperators\LinqToObjectsAndQueryOperators\obj\Debug\LinqToObjectsAndQueryOperators.exe
+C:\Users\GioLGA\source\repos\LinqToObjectsAndQueryOperators\LinqToObjectsAndQueryOperators\obj\Debug\LinqToObjectsAndQueryOperators.pdb
